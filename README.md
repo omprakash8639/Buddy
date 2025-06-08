@@ -56,6 +56,26 @@ python app.py
 
 ```
 
+## 📸 Screenshots
+
+### Chat Interface
+![Chat Interface](demo_images/Screenshot%202025-06-08%20100627.png)
+
+### Onboarding Screen
+![Onboarding Screen](demo_images/Screenshot%202025-06-08%20100636.png)
+
+### Buddy Reply Example
+![Buddy Reply](demo_images/Screenshot%202025-06-08%20100655.png)
+
+### Settings Page
+![Settings](demo_images/Screenshot%202025-06-08%20100708.png)
+
+### Theme Toggle
+![Theme Toggle](demo_images/Screenshot%202025-06-08%20100820.png)
+
+### Empty Chat State
+![Empty State](demo_images/Screenshot%202025-06-08%20100828.png)
+
 
 
 
